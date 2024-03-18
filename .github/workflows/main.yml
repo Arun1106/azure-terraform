@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - main
-
+      - master
 jobs:
   sample:
     name: Microsoft Security DevOps Analysis
