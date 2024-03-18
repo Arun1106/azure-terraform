@@ -8,7 +8,7 @@ jobs:
   sample:
     name: Microsoft Security DevOps Analysis
 
-    # MSDO runs on windows-latest.
+    # MSDO runs on windows-latest..
     # ubuntu-latest also supported
     runs-on: windows-latest
 
